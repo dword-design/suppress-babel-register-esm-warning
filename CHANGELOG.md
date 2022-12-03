@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dword-design/suppress-babel-register-esm-warning/compare/v1.0.0...v1.1.0) (2022-12-03)
+
+
+### Features
+
+* impl ([2a3edc8](https://github.com/dword-design/suppress-babel-register-esm-warning/commit/2a3edc8dd4bf33bee092547022c390527e2b475a))
+
 # 1.0.0 (2022-12-03)
 
 
