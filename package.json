@@ -1,0 +1,35 @@
+{
+  "name": "@dword-design/suppress-babel-register-esm-warning",
+  "version": "1.0.0",
+  "repository": "dword-design/suppress-babel-register-esm-warning",
+  "funding": "https://github.com/sponsors/dword-design",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "checkUnknownFiles": "base checkUnknownFiles",
+    "commit": "base commit",
+    "dev": "base dev",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^9.1.6",
+    "@dword-design/functions": "^4.1.0",
+    "babel-register-esm": "npm:@dword-design/babel-register-esm",
+    "depcheck-package-name": "^2.0.6",
+    "execa": "^5",
+    "suppress-experimental-warnings": "^1.1.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
