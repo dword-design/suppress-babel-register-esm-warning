@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dword-design/suppress-babel-register-esm-warning/compare/v1.1.0...v1.1.1) (2023-02-15)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#8](https://github.com/dword-design/suppress-babel-register-esm-warning/issues/8)) ([85ab6da](https://github.com/dword-design/suppress-babel-register-esm-warning/commit/85ab6da54ec522371fd021d587f20229dbee2179))
+
 # [1.1.0](https://github.com/dword-design/suppress-babel-register-esm-warning/compare/v1.0.0...v1.1.0) (2022-12-03)
 
 
