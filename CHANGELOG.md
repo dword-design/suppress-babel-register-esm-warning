@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/dword-design/suppress-babel-register-esm-warning/compare/v1.1.4...v1.1.5) (2023-04-10)
+
+
+### Bug Fixes
+
+* update dependency suppress-experimental-warnings to v1.1.10 ([fb6c54c](https://github.com/dword-design/suppress-babel-register-esm-warning/commit/fb6c54c5890c6687e85d046ee6558f80e4810326))
+
 ## [1.1.4](https://github.com/dword-design/suppress-babel-register-esm-warning/compare/v1.1.3...v1.1.4) (2023-04-10)
 
 
