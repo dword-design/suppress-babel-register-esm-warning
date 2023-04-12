@@ -10500,9 +10500,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 suppress-experimental-warnings@^1.1.0, suppress-experimental-warnings@^1.1.2:
-  version "1.1.14"
-  resolved "https://registry.yarnpkg.com/suppress-experimental-warnings/-/suppress-experimental-warnings-1.1.14.tgz#bcde17b5f2c1e078f8d7709cdbb0b144bd48f6e1"
-  integrity sha512-DyeBsXxmKZRIjoa6GUFGXOqszwm+smcei35FkyAd3g29/Qs8m/nItzXpkyKeNtH0XoO7GFew0qSqh8ZdmVyS1A==
+  version "1.1.16"
+  resolved "https://registry.yarnpkg.com/suppress-experimental-warnings/-/suppress-experimental-warnings-1.1.16.tgz#ee68dc3451ea40d56b976daceebdc1f36b0f3b4a"
+  integrity sha512-xHL/jwYtJLX8h23w5Uz8mdpvjiFCdOuQCfokvfw1CYtdEaouvACTkA36IC7ftffpN7hYidiy6fWIv+JWGopijw==
 
 svg-element-attributes@^1.3.1:
   version "1.3.1"
