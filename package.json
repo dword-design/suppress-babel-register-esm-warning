@@ -1,6 +1,6 @@
 {
   "name": "@dword-design/suppress-babel-register-esm-warning",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "repository": "dword-design/suppress-babel-register-esm-warning",
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
