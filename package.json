@@ -25,7 +25,7 @@
     "babel-register-esm": "npm:@dword-design/babel-register-esm",
     "depcheck-package-name": "^2.0.6",
     "execa": "^5",
-    "suppress-experimental-warnings": "^1.1.2"
+    "suppress-experimental-warnings": "^2.0.0"
   },
   "engines": {
     "node": ">=14"
